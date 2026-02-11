@@ -27,7 +27,7 @@ The Monte Carlo method works by:
 
 Sample size: 10,000,000 points
 - CPU (serial): ~958ms
-- GPU (CUDA): ~310ms (Tesla T4, hardware dependent!!) 
+- GPU (CUDA): ~204ms (Tesla T4, hardware dependent!!) 
 
 Expected speedup on modern GPUs: 50-200x for 10M+ samples
 
